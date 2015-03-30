@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title> Victoria S. Huerta's Resume</title>
+		</head>
+		
+		<body>
+			<h1>Victoria S. Huerta</h1>
+			
+			<h2>Contact Information</h2>
+				<ul>
+					<li>Phone: 2102162706 </li>
+					<li>Email: vshuerta15@gmail.com</li>
+					<li>Mailing Address: 810 Eller O&amp;M, TAMU 3147 College Station, Texas</li>
+				</ul>
+			
+			<h2>Summary</h2>
+				<p style="text-indent: 5em;"> <b>Senior Gist Major attending Texas A&amp;M University. </b></p>
+				<p style="text-indent: 5em;"> An accomplished student in applications of GIS interested in obtaining a career in the GISciences. Skilled in analytical,
+				<p style="text-indent: 5em;">cartographic, and photogrammetric aspects of GIS, including the collection of data via fieldwork and the distribution via </p>
+				<p style="text-indent: 5em;"> WebGIS.</p>
+				
+		
+			<h2>Current Employment</h2>
+				<p style="text-indent: 5em;"> Visual Designer : <i>Steinmart</i></p>
+				<p style="text-indent: 5em;">June 2014- Present</p>
+				<p style="text-indent: 5em;">Maintain Visual Aesthetics of store merchandise, including dressing windows and displays within store.</p>
+				
+			<h2>Skills</h2>
+				<p style="text-indent: 5em;">ArcGIS &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp QGIS</p>
+				<p style="text-indent: 5em;">ENVI &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Microsoft Office</p>
+			
+			<h2>Project Experience</h2>
+				<ul>
+					<li>Spring 2014 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp McMurdo Station: Total Petroleum Hydrocarbon Levels, <i>GIS- 390</i></li>
+						<p style="text-indent: 12em;">The purpose of the project was to compare the TPH levels in McMurdo Station in relation to oil</p>
+						<p style="text-indent: 12em;"> tanks and known spill locations, within proximity to other buildings. Buffers and queries were used</p>
+						<p style="text-indent: 12em;">to select data by year, location, and relevance. </p>
+					<li>Fall 2014 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Eroding California Beach Locations, <i>Adv. GIS- 462</i></li>
+						<p style="text-indent: 12em;">Data was collected from the USGS, UC Berkeley, and CDIP to gather sediment and current </p>
+						<p style="text-indent: 12em;">information to determine a change in California erosion. Future climate and sea level data  </p>
+						<p style="text-indent: 12em;">were used from WorldClim to determine an estimate loss of coastline in future years.</p>
+					<li>Fall 2014 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp African Savanna Wildfire Spread, <i>Fire Ecology and Resource Management</i></li>
+						<p style="text-indent: 12em;">A GIS was created to analyze the wildfires in Africa's Savanna plains to determine</p>
+						<p style="text-indent: 12em;">where the most frequency occurs by gathering precipitation and vegetation data and</p>
+						<p style="text-indent: 12em;">employing a Kriging interpolation to determine what areas held the highest risk.</p>
+						
+				</ul>
+				
+				
+			<h2>Education</h2>
+				2011-2015
+				<p style="text-indent: 5em;"> B.S. Geographic Information Systems Technology, <i>Texas A&amp;M University</i>
+				<p style="text-indent: 5em;">Specialization: Environmental Systems</p>
+				<p></p>
+				<p style="text-indent: 8em;"> Coursework: Principles in GIS, Cartography, Remote Sensing, GPS in Geoscience, Field</p>
+				<p style="text-indent: 8em;"> Geography, Watershed Analysis, Fire Ecology and Natural Resource Management, Advanced GIS </p>
+				<p style="text-indent: 8em;"> (ESSM), Advanced GIS (Geography), WebGIS, GIS Practicum </p>
+		</body>
+	</html>
